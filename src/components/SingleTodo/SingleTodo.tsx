@@ -19,6 +19,7 @@ const SingleTodo: React.FC<Props> = ({ todo, taskList, setTaskList }) => {
       <span className="ikon"><AiTwotoneEdit /></span>
       <span className="ikon"><MdDeleteOutline /></span>
       <span className="ikon"><MdOutlineDone /></span>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem recusandae molestiae iusto necessitatibus neque architecto pariatur nam. Qui nobis, adipisci, delectus natus perspiciatis, ut quam eveniet atque ad reprehenderit itaque.</p>
     </form>
   );
 }
