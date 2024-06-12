@@ -26,5 +26,18 @@
     .heading{
         margin: 15px 0;
         font-size: 35px;
+       
+    }
+}
+
+@media(min-width: 400px){
+    .main{
+        width: 100%;
+        height: 200vh;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        background-color: #2f74c0;
+    
     }
 }
